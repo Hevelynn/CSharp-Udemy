@@ -1,0 +1,15 @@
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Udemy\CursoUdemyCSharp\bin\Debug\net7.0\CursoUdemyCSharp.exe
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Udemy\CursoUdemyCSharp\bin\Debug\net7.0\CursoUdemyCSharp.deps.json
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Udemy\CursoUdemyCSharp\bin\Debug\net7.0\CursoUdemyCSharp.runtimeconfig.json
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Udemy\CursoUdemyCSharp\bin\Debug\net7.0\CursoUdemyCSharp.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Udemy\CursoUdemyCSharp\bin\Debug\net7.0\CursoUdemyCSharp.pdb
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Udemy\CursoUdemyCSharp\obj\Debug\net7.0\CursoUdemyCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Udemy\CursoUdemyCSharp\obj\Debug\net7.0\CursoUdemyCSharp.AssemblyInfoInputs.cache
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Udemy\CursoUdemyCSharp\obj\Debug\net7.0\CursoUdemyCSharp.AssemblyInfo.cs
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Udemy\CursoUdemyCSharp\obj\Debug\net7.0\CursoUdemyCSharp.csproj.CoreCompileInputs.cache
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Udemy\CursoUdemyCSharp\obj\Debug\net7.0\CursoUdemyCSharp.sourcelink.json
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Udemy\CursoUdemyCSharp\obj\Debug\net7.0\CursoUdemyCSharp.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Udemy\CursoUdemyCSharp\obj\Debug\net7.0\refint\CursoUdemyCSharp.dll
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Udemy\CursoUdemyCSharp\obj\Debug\net7.0\CursoUdemyCSharp.pdb
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Udemy\CursoUdemyCSharp\obj\Debug\net7.0\CursoUdemyCSharp.genruntimeconfig.cache
+C:\Users\hevel\OneDrive\Área de Trabalho\Programação\C#\Udemy\CursoUdemyCSharp\obj\Debug\net7.0\ref\CursoUdemyCSharp.dll
